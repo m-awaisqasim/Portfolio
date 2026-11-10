@@ -1,4 +1,4 @@
-# AWAIS QASIM — Quant Researcher + FinTech Student
+# AWAIS QASIM -> Quant Researcher + FinTech Student
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/m-awaisqasim)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AwaisQasim006)
@@ -53,15 +53,13 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/AwaisQasim006/portfolio-website.git
-   cd portfolio-website
+   git clone https://github.com/m-awaisqasim/Portfolio.git
+   cd Portfolio
    ```
 
 2. **Install dependencies**
    ```bash
    npm install
-   # or
-   bun install
    ```
 
 3. **Start the development server**
@@ -73,16 +71,6 @@ src/
    ```bash
    npm run build
    ```
-
----
-
-## 📬 Contact
-
-Open to research discussions, collaboration, and professional networking.
-
-- **Email**: [sheikhawais2566@gmail.com](mailto:sheikhawais2566@gmail.com)
-- **GitHub**: [AwaisQasim006](https://github.com/AwaisQasim006)
-- **LinkedIn**: [m-awaisqasim](http://www.linkedin.com/in/m-awaisqasim)
 
 ---
 
