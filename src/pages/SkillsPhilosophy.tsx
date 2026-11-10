@@ -13,7 +13,7 @@ const skillCategories = [
   },
   {
     link: "#",
-    text: "Data & Quantitative Tools",
+    text: "Data & Quant Tools",
     items: [
       { name: "NumPy", url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" },
       { name: "Pandas", url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" },

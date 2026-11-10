@@ -13,8 +13,8 @@ const channels = [
   },
   {
     label: "GitHub",
-    value: "github.com/AwaisQasim006",
-    href: "https://github.com/AwaisQasim006",
+    value: "github.com/m-awaisqasim",
+    href: "https://github.com/m-awaisqasim",
   },
 ];
 

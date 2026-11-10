@@ -13,7 +13,7 @@ import ResearchInterests from "./ResearchInterests";
 import Navigation from "@/components/Navigation";
 
 const SOCIAL_LINKS = {
-  github: "https://github.com/AwaisQasim006",
+  github: "https://github.com/m-awaisqasim",
   linkedin: "http://www.linkedin.com/in/m-awaisqasim",
 };
 

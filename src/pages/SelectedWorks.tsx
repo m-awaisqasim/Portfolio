@@ -11,7 +11,7 @@ const projects = [
     stack: "C++",
     period: "March 2026 – May 2026",
     description:
-      "A console-based algorithmic trading backtester for evaluating SMA crossover and RSI strategies using historical Bitcoin data. The project also includes a rule-based chatbot interface.",
+      "2nd Semester Project: A console-based algorithmic trading backtester for evaluating SMA crossover and RSI strategies using historical Bitcoin data. The project also includes a rule-based chatbot interface.",
     links: { code: "https://github.com/m-awaisqasim/AlgoB" },
     cta: "View on GitHub",
   },
@@ -20,9 +20,9 @@ const projects = [
     title: "TOSS F11 — Inventory Management System",
     category: "Business Systems / Inventory Management",
     stack: "JavaScript & HTML",
-    period: null,
+    period: "September 2025 – November 2025",
     description:
-      "An inventory management system developed for a B2C pizza outlet in F-11 Markaz, Islamabad, with a focus on supporting day-to-day inventory operations. My 1st “IT in Business” university project.",
+      "1st Semester Project: An inventory management system developed for a B2C pizza outlet in F-11 Markaz, Islamabad, with a focus on supporting day-to-day inventory operations. My 1st “IT in Business” university project.",
     links: {
       live: "https://tossinventory.vercel.app/",
       code: "https://github.com/m-awaisqasim/Pizza_Inventory_Site",

@@ -56,7 +56,7 @@ const Footer = () => {
             Quant Researcher + FinTech Student
           </p>
           <p className="font-sans text-xs md:text-sm font-medium uppercase tracking-wide leading-relaxed text-white/60">
-            Rawalpindi, Pakistan [Lat: 33.6, Long: 73.0]
+            Rawalpindi, Pakistan
           </p>
         </motion.div>
 
@@ -81,7 +81,7 @@ const Footer = () => {
               LinkedIn ↗
             </a>
             <a
-              href="https://github.com/AwaisQasim006"
+              href="https://github.com/m-awaisqasim"
               target="_blank"
               rel="noopener noreferrer"
               className="font-sans text-xs md:text-sm font-medium uppercase tracking-wide hover:underline underline-offset-4 decoration-1 w-fit flex items-center gap-1"
@@ -98,7 +98,7 @@ const Footer = () => {
               Colophon
             </h3>
             <p className="font-sans text-xs md:text-sm font-medium uppercase tracking-wide text-white/60">
-              Built With: React / TypeScript / Framer / Lenis
+              Built With: React / TypeScript / Framer
             </p>
             <p className="font-sans text-xs md:text-sm font-medium uppercase tracking-wide text-white/60">
               Typeface: Inter / Playfair Display
