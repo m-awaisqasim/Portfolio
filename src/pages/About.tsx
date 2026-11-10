@@ -63,7 +63,7 @@ const About = () => {
                 National University of Computer and Emerging Sciences (FAST)
               </p>
               <p className="font-sans text-xl md:text-2xl lg:text-3xl font-normal text-black/70 leading-tight tracking-tight">
-                Computer Science Student (2025–2029)
+                FinTech Student (2025 – 2029)
               </p>
             </div>
           </motion.div>
@@ -74,7 +74,7 @@ const About = () => {
               02. Academic Direction
             </h3>
             <p className="font-sans text-xl md:text-2xl lg:text-3xl font-normal text-black/70 leading-snug tracking-tight max-w-3xl">
-              Working at the intersection of computer science, financial markets, quantitative methods, and financial technology — with a focus on systematic, data-driven approaches to understanding market behavior.
+              Working at the intersection of computer science, financial markets, quantitative methods, and financial technology with a focus on systematic, data-driven approaches to understanding market behavior especially in CRYPTO.
             </p>
           </motion.div>
 
@@ -88,7 +88,7 @@ const About = () => {
                 Rawalpindi, Pakistan
               </p>
               <p className="font-sans text-xl md:text-2xl lg:text-3xl font-normal text-black/70 leading-tight tracking-tight">
-                [Lat: 33.6, Long: 73.0]
+                
               </p>
             </div>
           </motion.div>
