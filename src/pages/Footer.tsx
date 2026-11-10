@@ -67,12 +67,6 @@ const Footer = () => {
           </h3>
           <div className="flex flex-col gap-2">
             <a
-              href="mailto:sheikhawais2566@gmail.com"
-              className="font-sans text-xs md:text-sm font-medium uppercase tracking-wide hover:underline underline-offset-4 decoration-1 w-fit flex items-center gap-1"
-            >
-              sheikhawais2566@gmail.com
-            </a>
-            <a
               href="http://www.linkedin.com/in/m-awaisqasim"
               target="_blank"
               rel="noopener noreferrer"
