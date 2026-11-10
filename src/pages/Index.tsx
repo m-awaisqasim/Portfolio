@@ -238,7 +238,7 @@ const Index = () => {
               Quant Researcher + FinTech Student
             </p>
             <h1 className="font-sans font-bold text-7xl md:text-8xl lg:text-[9rem] xl:text-[11rem] leading-[0.85] tracking-tighter text-white uppercase text-left">
-              Awais<br />Qasim
+              Awais Qasim
             </h1>
           </motion.div>
         </div>
