@@ -4,13 +4,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AwaisQasim006)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheikhawais2566@gmail.com)
 
-Personal portfolio of Awais Qasim — a computer science student at the National University of Computer and Emerging Sciences (FAST), exploring quantitative research, algorithmic trading, financial markets, data analysis, and financial technology.
+Personal portfolio of Awais Qasim: a FinTech student who is exploring quantitative research, algorithmic trading, financial markets, data analysis, and financial technology.
 
-## 🚀 Overview
-
-An editorial-style personal portfolio built around a quantitative-finance identity: bold typography, structured layouts, data-inspired visual motifs, and restrained motion. Sections include a data-driven About page, selected projects with institutional-style metadata tables, research interests, toolkit, and a clean contact section.
-
-### Key Features
+## Key Features
 - **Immersive interactivity**: Splash cursor effects, vector-bridge portal transitions, and fluid animations.
 - **Stack-based project display**: A custom-engineered scroll stack showcasing selected work — with metadata-style project cards (no decorative fake dashboards).
 - **Parallax storytelling**: Multi-layered parallax footer reveal and scroll-triggered section transitions.
