@@ -20,9 +20,8 @@ const navItems: NavItem[] = [
 ];
 
 const socialItems: SocialItem[] = [
-  { label: "GitHub", href: "https://github.com/AwaisQasim006" },
+  { label: "GitHub", href: "https://github.com/m-awaisqasim" },
   { label: "LinkedIn", href: "http://www.linkedin.com/in/m-awaisqasim" },
-  { label: "Email", href: "mailto:sheikhawais2566@gmail.com" },
 ];
 
 const ease = [0.76, 0, 0.24, 1] as [number, number, number, number];
